@@ -1,0 +1,4 @@
+== ID: 2
+== NOME: Maniçoba
+== TIPO: Regional
+== VALOR: 69.9
